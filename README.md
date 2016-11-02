@@ -1,2 +1,2 @@
 ### leetcodeSolution
-Problems Home Page leetcode(http://www.leetcode.com)
+Problems Home Page [leetcode](http://www.leetcode.com)
